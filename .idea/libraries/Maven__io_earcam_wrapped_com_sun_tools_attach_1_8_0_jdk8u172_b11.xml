@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.earcam.wrapped:com.sun.tools.attach:1.8.0_jdk8u172-b11">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/earcam/wrapped/com.sun.tools.attach/1.8.0_jdk8u172-b11/com.sun.tools.attach-1.8.0_jdk8u172-b11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/earcam/wrapped/com.sun.tools.attach/1.8.0_jdk8u172-b11/com.sun.tools.attach-1.8.0_jdk8u172-b11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/earcam/wrapped/com.sun.tools.attach/1.8.0_jdk8u172-b11/com.sun.tools.attach-1.8.0_jdk8u172-b11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
